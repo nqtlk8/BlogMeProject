@@ -5,3 +5,5 @@ further analysis on.
 Firstly, they’d like keywords to be extracted from headlines of the article. Secondly,
 they would need to determine the sentiment of the news articles. The data is in an
 excel sheet and they would like to see a dashboard outlying sentiment, top articles etc.
+# Dashboard
+You can watch Blog Me Dashboard at the following link: https://public.tableau.com/app/profile/nguy.n.qu.c.th.ng/viz/BlogMeDashboard/BlogmeNewsDashboard
